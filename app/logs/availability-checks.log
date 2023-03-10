@@ -1,0 +1,1144 @@
+{"level":"info","message":"2023-01-18T09:20:57.636Z - Scheduling availability check in 264 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":""}
+{"level":"info","message":"2023-01-18T09:25:22.164Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:23.613Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:23.621Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:24.200Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:25.206Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:25.579Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:25.579Z - Scheduling availability check in 32 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:57.907Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:59.363Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:59.365Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:25:59.944Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:26:00.771Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:26:00.772Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:26:00.773Z - Scheduling availability check in 171 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:28:52.258Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:28:53.410Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:28:53.789Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:28:54.114Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:28:55.021Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:28:55.023Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:28:55.024Z - Scheduling availability check in 100 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:30:35.501Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:30:36.736Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:30:36.737Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:30:37.043Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:30:38.026Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:30:38.811Z - Scheduling availability check in 213 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:30:38.809Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:34:12.309Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:34:13.627Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:34:13.628Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:34:13.976Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:34:14.938Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:34:14.939Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:34:14.942Z - Scheduling availability check in 328 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:39:43.535Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:39:45.103Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:39:45.102Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:39:45.473Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:39:46.537Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:39:46.538Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:39:46.538Z - Scheduling availability check in 148 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:42:15.026Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:42:16.371Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:42:16.371Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:42:16.656Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:42:17.617Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:42:18.739Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:42:18.740Z - Scheduling availability check in 222 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:46:01.403Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:46:02.748Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:46:03.635Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:46:03.994Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:46:04.974Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:46:04.976Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:46:04.977Z - Scheduling availability check in 247 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:50:12.647Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:50:13.941Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:50:13.941Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:50:14.514Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:50:15.517Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:50:17.040Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:50:17.043Z - Scheduling availability check in 85 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:51:42.613Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:51:43.885Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:51:45.180Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:51:45.764Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:51:46.791Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:51:48.662Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:51:48.666Z - Scheduling availability check in 22 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:52:11.180Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:52:12.588Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:52:12.589Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:52:13.175Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:52:14.097Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:52:16.400Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:52:16.401Z - Scheduling availability check in 44 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:53:00.862Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:53:02.428Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:53:04.153Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:53:04.719Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:53:05.771Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:53:05.773Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:53:05.774Z - Scheduling availability check in 109 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:54:55.172Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:54:56.617Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:54:58.877Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:54:59.443Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:00.542Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:03.187Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:03.188Z - Scheduling availability check in 33 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:36.896Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:38.415Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:38.415Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:39.008Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:39.913Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:39.914Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T09:55:39.915Z - Scheduling availability check in 403 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:02:23.443Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:02:25.022Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:02:25.024Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:02:25.634Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:02:26.634Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:02:26.635Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:02:26.636Z - Scheduling availability check in 51 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:03:18.181Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:03:19.391Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:03:21.907Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:03:22.471Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:03:23.381Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:03:26.423Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:03:26.424Z - Scheduling availability check in 397 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:10:03.979Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:10:05.336Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:10:05.337Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:10:05.936Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:10:07.794Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:10:07.793Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:10:07.796Z - Scheduling availability check in 79 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:11:27.187Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:11:28.591Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:11:28.593Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:11:29.157Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:11:30.203Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:11:30.204Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:11:30.206Z - Scheduling availability check in 267 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:15:57.603Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:15:59.020Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:16:01.991Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:16:02.572Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:16:03.649Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:16:03.650Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:16:03.650Z - Scheduling availability check in 130 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:18:14.023Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:18:15.445Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:18:15.446Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:18:16.020Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:18:17.118Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:18:17.121Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:18:17.123Z - Scheduling availability check in 85 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:19:42.685Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:19:43.899Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:19:43.900Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:19:44.490Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:19:45.548Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:19:48.936Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:19:48.936Z - Scheduling availability check in 389 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:26:18.579Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:26:19.819Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:26:23.264Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:26:23.858Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:26:24.849Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:26:24.849Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:26:24.850Z - Scheduling availability check in 73 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:27:38.219Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:27:39.575Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:27:43.379Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:27:43.691Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:27:44.617Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:27:44.615Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:27:44.618Z - Scheduling availability check in 57 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:28:42.169Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:28:43.602Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:28:48.297Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:28:48.883Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:28:49.713Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:28:53.513Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:28:53.514Z - Scheduling availability check in 150 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:31:23.917Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:31:25.354Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:31:30.067Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:31:30.629Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:31:31.705Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:31:35.854Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:31:35.855Z - Scheduling availability check in 370 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:37:46.375Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:37:47.826Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:37:52.932Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:37:53.249Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:37:54.176Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:37:58.690Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:37:58.691Z - Scheduling availability check in 206 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:41:25.402Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:41:26.842Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:41:26.844Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:41:27.403Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:41:28.477Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:41:28.479Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:41:28.480Z - Scheduling availability check in 247 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:45:36.007Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:45:37.215Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:45:37.217Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:45:37.532Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:45:38.485Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:45:43.433Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:45:43.435Z - Scheduling availability check in 259 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:50:02.926Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:50:04.169Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:50:09.673Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:50:09.992Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:50:10.914Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:50:16.229Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:50:16.230Z - Scheduling availability check in 170 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:53:06.633Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:53:08.013Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:53:14.091Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:53:14.701Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:53:15.724Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:53:15.725Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:53:15.726Z - Scheduling availability check in 239 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:57:15.257Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:57:16.609Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:57:23.211Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:57:23.528Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:57:24.458Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:57:24.459Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T10:57:24.460Z - Scheduling availability check in 196 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:00:41.091Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:00:42.299Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:00:42.300Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:00:42.889Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:00:43.922Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:00:49.493Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:00:49.494Z - Scheduling availability check in 262 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:05:12.052Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:05:13.414Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:05:20.454Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:05:21.052Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:05:22.139Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:05:28.222Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:05:28.224Z - Scheduling availability check in 239 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:09:27.830Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:09:29.567Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:09:29.568Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:09:30.100Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:09:31.045Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:09:37.562Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:09:37.563Z - Scheduling availability check in 312 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:14:49.835Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:14:51.295Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:14:58.753Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:14:59.276Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:15:00.162Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:15:06.923Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:15:06.924Z - Scheduling availability check in 378 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:21:25.285Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:21:26.718Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:21:26.717Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:21:27.309Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:21:28.307Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:21:28.308Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:21:28.310Z - Scheduling availability check in 286 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:26:14.694Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:26:16.140Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:26:16.142Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:26:16.718Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:26:17.714Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:26:17.714Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:26:17.715Z - Scheduling availability check in 255 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:30:33.234Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:30:34.418Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:30:42.122Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:30:42.740Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:30:43.751Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:30:43.751Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:30:43.752Z - Scheduling availability check in 28 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:31:12.297Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:31:13.351Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:31:13.353Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:31:13.940Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:31:14.872Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:31:14.873Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:31:14.874Z - Scheduling availability check in 222 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:34:57.423Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:34:58.821Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:35:06.885Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:35:07.461Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:35:08.418Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:35:08.419Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:35:08.421Z - Scheduling availability check in 399 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:41:47.751Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:41:49.229Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:41:57.817Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:41:58.406Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:41:59.331Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:42:06.524Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:42:06.525Z - Scheduling availability check in 291 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:46:57.896Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:46:59.267Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:46:59.269Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:46:59.881Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:47:00.784Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:47:08.348Z - Scheduling availability check in 405 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:47:08.347Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:53:53.771Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:53:56.050Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:53:56.051Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:53:56.690Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:53:57.680Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:53:57.679Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:53:57.682Z - Scheduling availability check in 244 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:58:02.240Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:58:03.467Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:58:12.015Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:58:12.555Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:58:13.547Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:58:21.468Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:58:21.469Z - Scheduling availability check in 61 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:59:22.877Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:59:24.279Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:59:33.802Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:59:34.115Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:59:35.028Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:59:35.029Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T11:59:35.031Z - Scheduling availability check in 338 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:05:13.381Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:05:14.855Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:05:25.594Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:05:25.880Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:05:26.801Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:05:35.084Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:05:35.085Z - Scheduling availability check in 62 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:06:37.575Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:06:38.749Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:06:48.901Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:06:49.209Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:06:50.142Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:06:58.711Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:06:58.715Z - Scheduling availability check in 252 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:11:11.204Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:11:12.438Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:11:22.670Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:11:22.958Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:11:23.847Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:11:23.848Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:11:23.848Z - Scheduling availability check in 79 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:12:43.379Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:12:44.625Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:12:44.627Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:12:45.155Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:12:46.271Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:12:46.272Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:12:46.273Z - Scheduling availability check in 291 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:17:37.710Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:17:39.077Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:17:49.933Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:17:50.269Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:17:51.225Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:17:51.226Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:17:51.226Z - Scheduling availability check in 135 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:20:06.805Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:20:08.251Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:20:08.252Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:20:08.817Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:20:09.898Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:20:09.899Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:20:09.900Z - Scheduling availability check in 102 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:21:52.268Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:21:53.705Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:21:53.707Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:21:54.288Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:21:55.375Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:22:04.349Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:22:04.349Z - Scheduling availability check in 91 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:23:35.712Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:23:37.061Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:23:48.610Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:23:48.909Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:23:49.815Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:23:59.296Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:23:59.297Z - Scheduling availability check in 39 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:24:38.644Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:24:39.987Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:24:39.988Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:24:40.311Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:24:41.076Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:24:50.888Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:24:50.889Z - Scheduling availability check in 437 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:32:08.426Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:32:09.942Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:32:21.626Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:32:21.964Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:32:22.946Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:32:22.947Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:32:22.948Z - Scheduling availability check in 238 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:36:21.283Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:36:22.733Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:36:34.872Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:36:35.442Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:36:36.521Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:36:46.738Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:36:46.739Z - Scheduling availability check in 204 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:40:11.240Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:40:12.476Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:40:24.580Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:40:24.903Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:40:25.872Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:40:36.493Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:40:36.494Z - Scheduling availability check in 428 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:47:44.953Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:47:46.399Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:47:59.013Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:47:59.601Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:48:00.566Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:48:11.517Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:48:11.518Z - Scheduling availability check in 312 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:53:24.081Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:53:25.296Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:53:25.297Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:53:25.820Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:53:26.945Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:53:38.275Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:53:38.276Z - Scheduling availability check in 369 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:59:47.567Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:59:48.914Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:59:48.908Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:59:49.242Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T12:59:50.175Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:00:01.915Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:00:01.917Z - Scheduling availability check in 352 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:05:54.514Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:05:55.735Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:06:08.959Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:06:09.546Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:06:10.615Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:06:10.617Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:06:10.618Z - Scheduling availability check in 284 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:10:54.961Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:10:56.321Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:10:56.322Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:10:56.643Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:10:57.615Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:10:57.616Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:10:57.617Z - Scheduling availability check in 195 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:14:13.154Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:14:14.630Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:14:14.629Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:14:15.198Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:14:17.121Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:14:29.150Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:14:29.152Z - Scheduling availability check in 234 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:18:23.472Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:18:24.873Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:18:38.460Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:18:39.036Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:18:39.987Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:18:39.988Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:18:39.990Z - Scheduling availability check in 36 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:19:16.333Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:19:17.713Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:19:31.874Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:19:32.412Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:19:33.346Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:19:45.739Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:19:45.740Z - Scheduling availability check in 284 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:30.068Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:31.469Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:31.468Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:32.028Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:32.929Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:32.930Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:32.931Z - Scheduling availability check in 26 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:24:59.453Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:00.655Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:14.763Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:15.352Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:16.282Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:25.438Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:26.645Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:29.165Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:29.168Z - Scheduling availability check in 105 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:41.434Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:42.014Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:42.876Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:42.875Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:42.876Z - Scheduling availability check in 11 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:54.398Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:55.776Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:55.775Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:56.357Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:25:57.328Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:05.237Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:06.600Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:06.598Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:07.157Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:08.083Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:10.790Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:10.791Z - Scheduling availability check in 307 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:21.628Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:26:21.628Z - Scheduling availability check in 446 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:33:48.128Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:33:49.347Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:04.464Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:04.806Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:05.733Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:19.671Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:19.671Z - Scheduling availability check in 26 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:46.073Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:47.447Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:47.448Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:48.052Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:34:48.970Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:35:03.434Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:35:03.434Z - Scheduling availability check in 333 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:40:37.029Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:40:38.225Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:40:53.564Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:40:53.898Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:40:54.885Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:40:54.887Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:40:54.888Z - Scheduling availability check in 160 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:43:35.422Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:43:36.620Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:43:36.624Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:43:36.946Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:43:37.874Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:43:52.528Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:43:52.529Z - Scheduling availability check in 67 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:45:00.028Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:45:01.402Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:45:16.823Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:45:17.141Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:45:18.018Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:45:18.019Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:45:18.019Z - Scheduling availability check in 407 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:52:05.356Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:52:06.677Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:52:22.749Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:52:23.043Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:52:23.970Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:52:23.971Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:52:23.972Z - Scheduling availability check in 196 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:55:40.366Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:55:41.826Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:55:58.480Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:55:59.084Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:56:00.133Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:56:00.133Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T13:56:00.134Z - Scheduling availability check in 443 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:03:23.845Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:03:25.158Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:03:25.160Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:03:25.475Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:03:26.508Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:03:42.056Z - Scheduling availability check in 190 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:03:42.052Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:06:52.637Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:06:53.845Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:06:53.846Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:06:54.433Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:06:55.533Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:06:55.533Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:06:55.534Z - Scheduling availability check in 308 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:12:04.099Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:12:05.243Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:12:23.023Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:12:23.333Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:12:24.299Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:12:24.300Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:12:24.301Z - Scheduling availability check in 160 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:15:04.795Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:15:06.022Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:15:24.055Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:15:24.617Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:15:25.700Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:15:41.709Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:15:41.710Z - Scheduling availability check in 430 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:22:52.276Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:22:53.675Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:22:53.676Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:22:54.208Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:22:55.267Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:23:11.077Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:23:11.078Z - Scheduling availability check in 430 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:30:21.477Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:30:23.139Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:30:40.845Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:30:41.430Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:30:42.483Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:30:42.484Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:30:42.485Z - Scheduling availability check in 134 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:32:56.936Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:32:58.321Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:32:58.323Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:32:58.922Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:32:59.945Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:32:59.948Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:32:59.949Z - Scheduling availability check in 327 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:38:27.403Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:38:28.813Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:38:28.813Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:38:29.346Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:38:30.360Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:38:46.554Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:38:46.554Z - Scheduling availability check in 434 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:46:01.066Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:46:02.249Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:46:20.109Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:46:20.687Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:46:21.768Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:46:21.767Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:46:21.768Z - Scheduling availability check in 377 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:52:39.355Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:52:40.900Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:52:40.902Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:52:41.474Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:52:42.606Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:52:42.608Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:52:42.609Z - Scheduling availability check in 89 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:54:12.130Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:54:13.653Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:54:13.654Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:54:14.244Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:54:15.319Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:54:31.976Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:54:31.976Z - Scheduling availability check in 132 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:56:44.383Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:56:45.739Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:57:04.410Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:57:04.990Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:57:06.090Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:57:06.092Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:57:06.094Z - Scheduling availability check in 41 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:57:47.581Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:57:48.785Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:58:07.588Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:58:08.068Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:58:08.855Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:58:26.047Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T14:58:26.048Z - Scheduling availability check in 194 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:01:40.530Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:01:41.843Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:02:01.073Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:02:01.435Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:02:02.346Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:02:02.345Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:02:02.347Z - Scheduling availability check in 444 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:09:26.746Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:09:28.185Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:09:47.383Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:09:47.949Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:09:48.995Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:10:06.268Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:10:06.269Z - Scheduling availability check in 140 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:12:26.599Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:12:28.037Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:12:28.038Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:12:28.616Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:12:30.447Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:12:48.068Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:12:48.069Z - Scheduling availability check in 327 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:18:15.632Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:18:16.884Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:18:16.885Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:18:17.468Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:18:18.410Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:18:36.659Z - Scheduling availability check in 267 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:18:36.655Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:23:03.980Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:23:05.431Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:23:25.635Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:23:26.222Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:23:27.195Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:23:45.832Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:23:45.833Z - Scheduling availability check in 160 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:26:26.406Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:26:27.674Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:26:27.674Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:26:28.265Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:26:29.217Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:26:29.218Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:26:29.219Z - Scheduling availability check in 247 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:30:36.538Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:30:38.002Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:30:59.800Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:31:00.365Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:31:01.367Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:31:20.701Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:31:20.702Z - Scheduling availability check in 44 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:32:05.171Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:32:06.650Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:32:27.783Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:32:28.367Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:32:29.553Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:32:29.553Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:32:29.554Z - Scheduling availability check in 47 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:33:16.892Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:33:18.516Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:33:18.518Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:33:19.050Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:33:20.132Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:33:20.131Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:33:20.134Z - Scheduling availability check in 132 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:35:32.471Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:35:33.882Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:35:56.145Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:35:56.724Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:35:57.749Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:35:57.748Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:35:57.750Z - Scheduling availability check in 300 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:40:58.304Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:40:59.580Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:40:59.581Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:41:00.143Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:41:01.114Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:41:01.116Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:41:01.117Z - Scheduling availability check in 194 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:44:15.692Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:44:16.896Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:44:39.137Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:44:39.727Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:44:40.703Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:44:59.827Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:44:59.828Z - Scheduling availability check in 212 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:48:32.357Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:48:33.598Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:48:33.597Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:48:34.134Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:48:35.044Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:48:35.046Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:48:35.047Z - Scheduling availability check in 277 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:53:12.553Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:53:13.956Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:53:13.957Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:53:14.488Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:53:15.434Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:53:34.967Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:53:34.969Z - Scheduling availability check in 268 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:58:03.474Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:58:04.647Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:58:26.845Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:58:27.153Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:58:28.077Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:58:28.078Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T15:58:28.080Z - Scheduling availability check in 106 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:00:14.597Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:00:17.024Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:00:17.025Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:00:17.366Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:00:18.316Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:00:38.190Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:00:38.192Z - Scheduling availability check in 218 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:04:16.573Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:04:17.930Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:04:17.931Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:04:18.247Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:04:19.210Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:04:39.519Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:04:39.520Z - Scheduling availability check in 261 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:09:01.119Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:09:02.510Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:09:24.924Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:09:25.208Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:09:26.114Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:09:46.880Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:09:46.881Z - Scheduling availability check in 429 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:16:56.350Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:16:57.678Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:17:20.444Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:17:20.773Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:17:21.730Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:17:42.724Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:17:42.725Z - Scheduling availability check in 133 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:19:56.090Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:19:57.493Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:20:20.969Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:20:21.537Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:20:23.669Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:20:23.669Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:20:23.670Z - Scheduling availability check in 365 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:26:29.079Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:26:30.528Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:26:53.942Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:26:54.506Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:26:55.525Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:27:16.952Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:27:16.952Z - Scheduling availability check in 241 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:31:18.305Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:31:19.609Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:31:19.610Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:31:19.933Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:31:20.897Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:31:20.898Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:31:20.898Z - Scheduling availability check in 258 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:35:39.250Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:35:41.085Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:36:05.337Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:36:05.608Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:36:06.537Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:36:28.376Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:36:28.378Z - Scheduling availability check in 42 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:37:10.957Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:37:12.275Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:37:12.274Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:37:12.834Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:37:13.771Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:37:35.983Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:37:35.984Z - Scheduling availability check in 399 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:44:15.498Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:44:16.701Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:44:16.702Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:44:17.041Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:44:17.982Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:44:17.984Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:44:17.984Z - Scheduling availability check in 227 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:48:05.344Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:48:06.707Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:48:06.708Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:48:07.031Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:48:08.063Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:48:08.064Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:48:08.065Z - Scheduling availability check in 227 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:51:55.709Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:51:57.081Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:51:57.082Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:51:57.638Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:51:58.586Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:51:58.587Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:51:58.588Z - Scheduling availability check in 115 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:53:54.087Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:53:55.432Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:53:55.438Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:53:55.785Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:53:56.739Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:53:56.740Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T16:53:56.741Z - Scheduling availability check in 386 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:00:23.312Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:00:24.524Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:00:49.745Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:00:50.325Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:00:51.372Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:01:14.011Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:01:14.011Z - Scheduling availability check in 98 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:02:52.600Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:02:54.053Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:02:54.052Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:02:54.652Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:02:55.655Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:03:19.001Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:03:19.003Z - Scheduling availability check in 67 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:04:26.639Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:04:27.971Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:04:53.739Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:04:54.027Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:04:54.920Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:05:18.192Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:05:18.193Z - Scheduling availability check in 450 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:12:48.685Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:12:49.900Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:13:14.862Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:13:15.193Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:13:16.140Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:13:40.127Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:13:40.128Z - Scheduling availability check in 162 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:16:22.545Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:16:23.980Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:16:49.282Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:16:49.870Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:16:50.905Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:17:14.876Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:17:14.876Z - Scheduling availability check in 140 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:19:35.545Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:19:36.990Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:19:36.989Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:19:37.523Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:19:38.572Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:20:03.133Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:20:03.134Z - Scheduling availability check in 414 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:26:57.522Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:26:58.862Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:26:58.861Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:26:59.218Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:00.121Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:00.122Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:00.124Z - Scheduling availability check in 4 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:04.406Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:05.753Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:05.751Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:06.069Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:06.842Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:08.578Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:09.889Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:12.578Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:13.629Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:13.630Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:13.976Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:14.748Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:14.750Z - Scheduling availability check in 120 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:14.749Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:31.825Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:31.826Z - Scheduling availability check in 369 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:35.820Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:36.137Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:27:37.019Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:28:02.405Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:28:02.405Z - Scheduling availability check in 65 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:29:07.908Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:29:09.109Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:29:35.872Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:29:36.189Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:29:37.134Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:29:37.135Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:29:37.137Z - Scheduling availability check in 52 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:30:29.655Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:30:31.969Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:30:31.970Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:30:32.292Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:30:33.078Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:30:33.078Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:30:33.079Z - Scheduling availability check in 405 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:37:18.722Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:37:20.009Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:37:20.010Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:37:20.540Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:37:21.601Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:37:21.601Z - Scheduling availability check in 101 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:37:21.600Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:39:03.223Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:39:04.637Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:39:04.643Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:39:05.228Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:39:06.265Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:39:32.110Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:39:32.111Z - Scheduling availability check in 151 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:42:03.643Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:42:04.916Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:42:04.917Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:42:05.505Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:42:06.545Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:42:06.546Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:42:06.547Z - Scheduling availability check in 78 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:43:25.117Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:43:26.568Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:43:26.573Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:43:27.139Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:43:28.158Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:43:28.159Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:43:28.159Z - Scheduling availability check in 416 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:50:24.713Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:50:26.209Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:50:26.210Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:50:26.493Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:50:27.452Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:50:53.372Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:50:53.373Z - Scheduling availability check in 32 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:51:25.749Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:51:27.207Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:51:27.208Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:51:27.787Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:51:28.765Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:51:28.767Z - Scheduling availability check in 380 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:51:28.766Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:57:49.300Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:57:50.482Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:58:16.824Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:58:17.167Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:58:18.106Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:58:44.427Z - Scheduling availability check in 298 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T17:58:44.427Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:03:42.798Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:03:44.200Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:04:11.172Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:04:11.737Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:04:13.774Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:04:40.626Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:04:40.627Z - Scheduling availability check in 185 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:07:46.093Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:07:47.539Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:07:47.541Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:07:48.119Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:07:49.092Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:07:49.093Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:07:49.094Z - Scheduling availability check in 148 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:10:17.684Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:10:18.900Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:10:18.906Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:10:19.541Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:10:20.585Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:10:47.758Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:10:47.760Z - Scheduling availability check in 271 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:15:19.344Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:15:20.620Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:15:20.621Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:15:21.214Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:15:22.297Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:15:22.299Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:15:22.300Z - Scheduling availability check in 302 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:20:24.837Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:20:26.210Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:20:26.211Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:20:26.793Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:20:27.811Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:20:27.813Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:20:27.814Z - Scheduling availability check in 253 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:24:41.306Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:24:42.669Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:24:42.670Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:24:42.995Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:24:43.954Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:25:11.609Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:25:11.610Z - Scheduling availability check in 164 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:29:06.416Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:29:07.933Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:29:07.928Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:29:08.277Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:29:09.195Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T18:39:16.696Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:39:17.496Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:39:18.855Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T18:42:19.533Z - FetchError: network timeout at: https://goerli.infura.io/v3/98286b5a705846ec9035b2a0323fa0c0 /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T18:42:19.540Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:20.543Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:21.866Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:21.867Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:22.211Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:23.014Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:38.624Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:38.625Z - Scheduling availability check in 341 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:41.711Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:42.030Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:42:42.822Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:43:04.498Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:43:04.499Z - Scheduling availability check in 383 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T18:49:34.622Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:49:35.684Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:49:36.990Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:49:36.991Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:49:37.512Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:49:38.459Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T18:51:41.575Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T18:51:41.579Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:51:48.155Z - Scheduling availability check in 274 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:51:48.153Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T18:58:58.988Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:58:59.393Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:59:01.340Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:59:01.341Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:59:01.642Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T18:59:02.505Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T19:10:21.636Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T19:10:21.632Z - FetchError: network timeout at: https://chaotic-morning-hill.btc-testnet.discover.quiknode.pro/8ea93fffb554e7ed72381e7676a0e05719134199/ /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:22.524Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:24.212Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:33.205Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:33.206Z - Scheduling availability check in 317 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:52.172Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:52.173Z - Scheduling availability check in 139 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:57.409Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:57.827Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:58.580Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:58.581Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:10:58.582Z - Scheduling availability check in 97 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:22:27.831Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:22:29.245Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"error","message":"2023-01-18T19:32:04.946Z - FetchError: network timeout at: https://goerli.infura.io/v3/98286b5a705846ec9035b2a0323fa0c0 /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:32:05.955Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:32:07.192Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:04.793Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:05.146Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:06.037Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:37.336Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:37.626Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:37.626Z - Scheduling availability check in 247 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:37.677Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:38.457Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:38.458Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:33:38.459Z - Scheduling availability check in 73 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:34:51.807Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:34:53.197Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:34:53.196Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:34:53.509Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:34:54.520Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:35:25.938Z - Scheduling availability check in 167 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:35:25.937Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:38:13.499Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:38:14.773Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:38:14.774Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:38:15.336Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:38:16.386Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:38:47.124Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:38:47.125Z - Scheduling availability check in 75 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:02.499Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:03.848Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:03.847Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:04.179Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:05.213Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:05.214Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:05.215Z - Scheduling availability check in 7 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:12.623Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:13.818Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:13.819Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:14.126Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:14.913Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:14.914Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:40:14.915Z - Scheduling availability check in 227 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:44:02.370Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:44:03.547Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:44:33.308Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:44:33.889Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:44:34.966Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:44:34.968Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:44:34.969Z - Scheduling availability check in 45 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:45:20.443Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:45:21.769Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:45:21.768Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:45:22.092Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:45:22.924Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:45:22.925Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:45:22.925Z - Scheduling availability check in 304 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:50:27.406Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:50:28.792Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:51:00.157Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:51:00.478Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:51:01.513Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:51:01.514Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:51:01.516Z - Scheduling availability check in 432 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:58:14.113Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:58:15.566Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:58:45.014Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:58:45.587Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:58:46.583Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:59:17.667Z - Scheduling availability check in 383 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T19:59:17.665Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:05:41.035Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:05:42.361Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:05:42.362Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:05:42.892Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:05:43.969Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:05:43.969Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:05:43.970Z - Scheduling availability check in 170 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:08:34.455Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:08:35.913Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:08:35.914Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:08:36.235Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:08:37.205Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:09:08.715Z - Node Bitcoin Testnet is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:09:08.716Z - Scheduling availability check in 72 seconds /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:10:21.097Z - Susseccfully connected to Ethereum Goerli node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:10:22.525Z - Node Ethereum Goerli is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:10:53.261Z - Node Ethereum Goerli is available /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:10:53.908Z - Susseccfully connected to Bitcoin Testnet node /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
+{"level":"info","message":"2023-01-18T20:10:54.979Z - Node Bitcoin Testnet is fully synchronized /Users/alex/Downloads/omnia_test_stefan_stefanovic/app/src/winston.js}"}
