@@ -1,0 +1,33 @@
+.nodes-chain-switcher {
+  display: flex;
+  flex-direction: row;
+}
+
+.nodes-chain-switcher-button {
+  padding: 4px 8px;
+  border: 1px solid gray;
+  color: gray;
+  background-color: white;
+  cursor: pointer;
+}
+
+.nodes-chain-switcher-button.active {
+  padding: 4px 8px;
+  border: 2px solid gray;
+  color: black;
+  background-color: gray;
+}
+
+.nodes-chain-switcher-button#non-evm {
+  border-radius: 8px 0 0 8px;
+}
+
+.nodes-chain-switcher-button#evm {
+  border-radius: 0 8px 8px 0;
+}
+
+@media only screen and (max-width: 414px) {
+  .nodes-chain-switcher-button {
+    font-size: 24px;
+  }
+}

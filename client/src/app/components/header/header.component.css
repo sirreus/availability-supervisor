@@ -1,0 +1,18 @@
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 0;
+}
+
+.app-header-link {
+  text-decoration: none;
+  color: gray;
+}
+
+@media only screen and (max-width: 414px) {
+  .app-header {
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,25 @@
+.node-info-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.node-info-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 0 16px;
+}
+
+@media only screen and (max-width: 414px) {
+  .node-info-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .node-info-block {
+    margin: 16px 0;
+    font-size: 24px;
+  }
+}
