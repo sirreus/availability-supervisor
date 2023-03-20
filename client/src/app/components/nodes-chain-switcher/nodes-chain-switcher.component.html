@@ -1,6 +1,18 @@
-<div class="nodes-chain-switcher">
-  <button class="nodes-chain-switcher-button active" id="non-evm">
+<div class="nodes-chain-switcher" (onclick)="toggleNode()">
+  <div
+    class="nodes-chain-switcher-button"
+    id="non-evm"
+    (click)="toggleNode()"
+    [ngClass]="isNonEVM ? ' active' : ''"
+  >
     non-EVM
-  </button>
-  <button class="nodes-chain-switcher-button" id="evm">EVM-based</button>
+  </div>
+  <div
+    class="nodes-chain-switcher-button"
+    id="evm"
+    (click)="toggleNode()"
+    [ngClass]="!isNonEVM ? ' active' : ''"
+  >
+    EVM-based
+  </div>
 </div>

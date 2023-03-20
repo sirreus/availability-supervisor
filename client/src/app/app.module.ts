@@ -5,11 +5,17 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { NodesChainSwitcherComponent } from './components/nodes-chain-switcher/nodes-chain-switcher.component';
 import { NodeInfoComponent } from './components/node-info/node-info.component';
+import { HealthCheckService } from './services/health-check/health-check.service';
 
 @NgModule({
-  declarations: [AppComponent, HeaderComponent, NodesChainSwitcherComponent, NodeInfoComponent],
+  declarations: [
+    AppComponent,
+    HeaderComponent,
+    NodesChainSwitcherComponent,
+    NodeInfoComponent,
+  ],
   imports: [BrowserModule],
-  providers: [],
+  providers: [HealthCheckService],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
