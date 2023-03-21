@@ -6,6 +6,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { NodesChainSwitcherComponent } from './components/nodes-chain-switcher/nodes-chain-switcher.component';
 import { NodeInfoComponent } from './components/node-info/node-info.component';
 import { HealthCheckService } from './services/health-check/health-check.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,7 @@ import { HealthCheckService } from './services/health-check/health-check.service
     NodesChainSwitcherComponent,
     NodeInfoComponent,
   ],
-  imports: [BrowserModule],
+  imports: [BrowserModule, HttpClientModule],
   providers: [HealthCheckService],
   bootstrap: [AppComponent],
 })
